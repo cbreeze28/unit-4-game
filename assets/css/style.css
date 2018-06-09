@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url("../images/jumbotron.jpg");
+    background-size: 50% 100%;
+    
+  }
+  
+  .jumbotron h1 {
+    color: rgb(255, 255, 255);  
+  }
+  #body {
+    background-image: url("../images/background-main1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: "Bookman Old Style";
+    font-size: 20px;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 22px;
+
+}
+  .instructions {
+    text-align: center; 
+  }
+  
+  
